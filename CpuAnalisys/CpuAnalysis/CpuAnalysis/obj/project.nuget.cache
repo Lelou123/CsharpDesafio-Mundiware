@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "hNjnSVb/R95NaV84DTWRVvy5kROSQv93qaWER7lU1fXtzEXmzpC1hD6EF1GIxDZvLXWcGACJhm0En/PibVg7Vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Muril\\Documents\\Projetos Pessoais\\CpuAnalisys\\CpuAnalysis\\CpuAnalysis\\CpuAnalysis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Muril\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Muril\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\Muril\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\Muril\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512",
+    "C:\\Users\\Muril\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\Muril\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

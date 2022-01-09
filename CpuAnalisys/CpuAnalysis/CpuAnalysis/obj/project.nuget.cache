@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hNjnSVb/R95NaV84DTWRVvy5kROSQv93qaWER7lU1fXtzEXmzpC1hD6EF1GIxDZvLXWcGACJhm0En/PibVg7Vg==",
+  "dgSpecHash": "2y4MlgVqx/CkBKS06plsPyFNI/U2RNDTqwlLqhXQ89TyZF/7jW0K83erR31BKk6PP5/Qx18/FOuNAk7Vv9cg7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Muril\\Documents\\Projetos Pessoais\\CpuAnalisys\\CpuAnalysis\\CpuAnalysis\\CpuAnalysis.csproj",
+  "projectFilePath": "C:\\Users\\Muril\\Documents\\Projetos Pessoais\\CsharpDesafio-Mundiware\\CpuAnalisys\\CpuAnalysis\\CpuAnalysis\\CpuAnalysis.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Muril\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\Muril\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",

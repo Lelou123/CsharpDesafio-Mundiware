@@ -1,0 +1,14 @@
+C:\Users\Muril\Documents\Projetos Pessoais\Calendario\Calendario\bin\Debug\Calendario.exe.config
+C:\Users\Muril\Documents\Projetos Pessoais\Calendario\Calendario\bin\Debug\Calendario.exe
+C:\Users\Muril\Documents\Projetos Pessoais\Calendario\Calendario\bin\Debug\Calendario.pdb
+C:\Users\Muril\Documents\Projetos Pessoais\Calendario\Calendario\obj\Debug\Calendario.csproj.AssemblyReference.cache
+C:\Users\Muril\Documents\Projetos Pessoais\Calendario\Calendario\obj\Debug\Calendario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muril\Documents\Projetos Pessoais\Calendario\Calendario\obj\Debug\Calendario.Form1.resources
+C:\Users\Muril\Documents\Projetos Pessoais\Calendario\Calendario\obj\Debug\Calendario.Properties.Resources.resources
+C:\Users\Muril\Documents\Projetos Pessoais\Calendario\Calendario\obj\Debug\Calendario.UserControlVazio.resources
+C:\Users\Muril\Documents\Projetos Pessoais\Calendario\Calendario\obj\Debug\Calendario.csproj.GenerateResource.cache
+C:\Users\Muril\Documents\Projetos Pessoais\Calendario\Calendario\obj\Debug\Calendario.csproj.CoreCompileInputs.cache
+C:\Users\Muril\Documents\Projetos Pessoais\Calendario\Calendario\obj\Debug\Calendario.exe
+C:\Users\Muril\Documents\Projetos Pessoais\Calendario\Calendario\obj\Debug\Calendario.pdb
+C:\Users\Muril\Documents\Projetos Pessoais\Calendario\Calendario\obj\Debug\Calendario.UserControlDias.resources
+C:\Users\Muril\Documents\Projetos Pessoais\Calendario\Calendario\obj\Debug\Calendario.Apresentacao.Eventos.resources

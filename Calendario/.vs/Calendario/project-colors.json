@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a076bf88-721b-4002-ac21-e255c9a87e76": {
+      "ProjectGuid": "a076bf88-721b-4002-ac21-e255c9a87e76",
+      "DisplayName": "Calendario",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
